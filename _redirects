@@ -1,2 +1,6 @@
 /index.php / 301
-/de-DE/* /cazimbo/:splat 301
+/cazimbo-casino-de/* /cazimbo-casino-erfahrungen-de/:splat 301
+/cazimbo-de/* /cazimbo-casino-erfahrungen-de/:splat 301
+/germany-de/* /cazimbo-casino-erfahrungen-de/:splat 301
+/cazimbo/* /cazimbo-casino-erfahrungen-de/:splat 301
+/de-DE/* /cazimbo-casino-erfahrungen-de/:splat 301
